@@ -9,7 +9,8 @@
 <div align="center">
 
 <!-- ── BANNER ── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=Jami%20Construction%20%26%20Engineering%20Ltd.&amp;fontSize=32&amp;fontColor=e2b96f&amp;fontAlignY=45&amp;desc=Building%20Bangladesh%20%7C%20Brick%20by%20Brick&amp;descSize=16&amp;descAlignY=68&amp;descColor=a0aec0" width="100%" />
+<h1 align="center">🏗️ Jami Construction &amp; Engineering Ltd.</h1>
+<p align="center"><i>— Building Bangladesh · Brick by Brick —</i></p>
 
 <br/>
 
@@ -65,7 +66,7 @@ We leverage modern digital tools to streamline operations and improve transparen
 
 ```
 🗺️  Primary Zone   →  Dhaka, Bangladesh
-🏙️  Also Active    →  Rangpur Division
+🏙️  Also Active    →  All Division
 🛤️  Project Types  →  Government Tenders · Private Contracts · NGO Projects
 ```
 
@@ -107,7 +108,6 @@ We leverage modern digital tools to streamline operations and improve transparen
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f3460,50:16213e,100:1a1a2e&amp;height=100&amp;section=footer" width="100%" />
 
 *© 2026 Jami Construction & Engineering Ltd. · Dhaka, Bangladesh · All Rights Reserved*
 
